@@ -203,6 +203,14 @@ VI. The Hidden Lore
 
   * Don't write "project background introductions"; write "hard rules the agent must obey."
 
+* **Caveats:**
+
+  * The key to maintaining a good CLAUDE.md is that it should **not** record information the agent will naturally pick up while exploring the project. It should record information of the kind that is "second nature to a project veteran, but takes a newcomer a long time to discover."
+
+  * **Avoiding rot in CLAUDE.md is the first principle.** A CLAUDE.md full of rotten, out-of-date information causes far more harm than a sparse one — when in doubt, leave it out.
+
+  * It should be a "quick-reference guide and pitfall-avoidance guide," not a "project introduction."
+
 ---
 
 ### **Q8. What are hooks? Name a few hook scenarios you commonly use.**
