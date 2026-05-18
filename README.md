@@ -23,8 +23,9 @@ The bank is organized into six sections:
 | :--- | :--- |
 | English | [vibe-coding-interviews.en.md](./vibe-coding-interviews.en.md) |
 | Chinese (Simplified) | [vibe-coding-interviews.zh.md](./vibe-coding-interviews.zh.md) |
+| Chinese (Simplified) — Google Docs | [Open in Google Docs](https://docs.google.com/document/d/1Vi2thlhowMYVN4HG6KOHVQDIzrDtnIE0/edit?usp=sharing&ouid=101724887082778418325&rtpof=true&sd=true) |
 
-The Chinese version is the original; the English version is a translation. If you spot drift between the two, the Chinese version is authoritative.
+The Chinese version is the original; the English version is a translation. If you spot drift between the two, the Chinese version is authoritative. The Google Docs link mirrors the Chinese version and has comment access enabled for feedback.
 
 ## Contributing
 
