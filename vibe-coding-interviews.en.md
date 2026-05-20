@@ -11,6 +11,7 @@ Target audience:
 Credit:
 
 - Sihao Liu \<[sihao@cs.ucla.edu](mailto:sihao@cs.ucla.edu)\>, [https://github.com/SihaoLiu](https://github.com/SihaoLiu)
+- Bangyan Wang \<wangbangyan@gmail.com\>, [https://github.com/AcrossForest](https://github.com/AcrossForest)
 
 References:
 

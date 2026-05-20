@@ -21,7 +21,7 @@
 作者：
 
 - Sihao Liu \<[sihao@cs.ucla.edu](mailto:sihao@cs.ucla.edu)\>， [https://github.com/SihaoLiu](https://github.com/SihaoLiu)  
-- Bangyan Wang \<bangyanwang@ust.hk\>， [https://github.com/AcrossForest](https://github.com/AcrossForest)
+- Bangyan Wang \<wangbangyan@gmail.com\>， [https://github.com/AcrossForest](https://github.com/AcrossForest)
 
 参考资料: 
 
